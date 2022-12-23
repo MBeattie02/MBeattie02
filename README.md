@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbeattie02" alt="mbeattie02" /></a> </p>
 
-- 🔭 I’m currently working on [Springboot - React](https://github.com/MBeattie02/SpringbootContactApp)
+- 🔭 I’m currently working on [Springboot - React](https://github.com/MBeattie02/AssignmentSubmissionAppBack)
 
 - 👨‍💻 Personal Portfolio [https://matthewbeattieportfolio.netlify.app](https://matthewbeattieportfolio.netlify.app)
 
