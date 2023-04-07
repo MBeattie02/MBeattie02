@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Springboot Ecommerce Store](https://github.com/MBeattie02/SpringBootEcommerce)
 
-- 👨‍💻 Personal Portfolio [https://matthewbeattieportfolio.netlify.app](https://matthewbeattieportfolio.netlify.app)
+- 👨‍💻 Personal Portfolio [https://matthewbeattieportfolio.netlify.app](https://mbeattie.dev)
 
 - 📫 How to reach me **mbeattie13@qub.ac.uk**
 
