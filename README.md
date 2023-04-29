@@ -13,7 +13,19 @@
 
 - 🐳 Docker Hub [mabeatti](https://hub.docker.com/u/mabeatti)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SRGo-sfX0MJhX6FnuNVccb3kICHPSUN1/view?usp=sharing](https://drive.google.com/file/d/1SRGo-sfX0MJhX6FnuNVccb3kICHPSUN1/view?usp=sharing)
+- 📄 View My CV [https://drive.google.com/file/d/1Ibtq7WfTZ0jDviZ0diwRldPSCeN6tzV2/view?usp=sharing](CV)
+
+<h3 align="left">University Projects:</h3>
+
+- 🎓 Software Engineering and Systems Development[Technopoly](https://github.com/MBeattie02/Technopoly)
+
+- 🎓  Programming [Music-Player](https://github.com/MBeattie02/Music-Player)
+
+- 🎓 Web Technologies[Escape-Room](https://github.com/MBeattie02/Escape-Room)
+
+- 🎓 Software Design Principles[Bank-Project](https://github.com/MBeattie02/Bank-Project)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
