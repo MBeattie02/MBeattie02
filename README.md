@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbeattie02" alt="mbeattie02" /></a> </p>
 
+<h3 align="left">About Me:</h3>
+
 - 🔭 I’m currently working on [Springboot Ecommerce Store](https://github.com/MBeattie02/SpringBootEcommerce)
 
 - 👨‍💻 Personal Portfolio [mbeattie.dev](https://mbeattie.dev)
@@ -13,13 +15,13 @@
 
 - 🐳 Docker Hub [mabeatti](https://hub.docker.com/u/mabeatti)
 
-- 📄 View My CV [https://drive.google.com/file/d/1Ibtq7WfTZ0jDviZ0diwRldPSCeN6tzV2/view?usp=sharing](CV)
+- 📄 View My CV [CV](https://drive.google.com/file/d/1Ibtq7WfTZ0jDviZ0diwRldPSCeN6tzV2/view?usp=sharing)
 
 <h3 align="left">University Projects:</h3>
 
 - 🎓 Software Engineering and Systems Development[Technopoly](https://github.com/MBeattie02/Technopoly)
 
-- 🎓  Programming [Music-Player](https://github.com/MBeattie02/Music-Player)
+- 🎓  Programming[Music-Player](https://github.com/MBeattie02/Music-Player)
 
 - 🎓 Web Technologies[Escape-Room](https://github.com/MBeattie02/Escape-Room)
 
