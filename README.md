@@ -7,17 +7,17 @@
 
 - 🐳 Docker Hub [mabeatti](https://hub.docker.com/u/mabeatti)
 
-- 📄 View My CV [CV](https://drive.google.com/file/d/1Ibtq7WfTZ0jDviZ0diwRldPSCeN6tzV2/view?usp=sharing)
+- 📄 View My CV [CV](https://drive.google.com/file/d/1tuVOKS3428aWOnWNYJZBrO2eVdktzpXd/view)
 
 <h3 align="left">University Projects:</h3>
 
-- 🎓 Software Engineering and Systems Development[Technopoly](https://github.com/MBeattie02/Technopoly)
+- 🎓 Software Engineering and Systems Development [Technopoly](https://github.com/MBeattie02/Technopoly)
 
-- 🎓  Programming[Music-Player](https://github.com/MBeattie02/Music-Player)
+- 🎓  Programming [Music-Player](https://github.com/MBeattie02/Music-Player)
 
-- 🎓 Web Technologies[Escape-Room](https://github.com/MBeattie02/Escape-Room)
+- 🎓 Web Technologies [Escape-Room](https://github.com/MBeattie02/Escape-Room)
 
-- 🎓 Software Design Principles[Bank-Project](https://github.com/MBeattie02/Bank-Project)
+- 🎓 Software Design Principles [Bank-Project](https://github.com/MBeattie02/Bank-Project)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-beattie-b77693223) 
