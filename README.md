@@ -7,7 +7,7 @@
 
 - 🐳 Docker Hub [mabeatti](https://hub.docker.com/u/mabeatti)
 
-- 📄 View My CV [CV](https://drive.google.com/file/d/1tuVOKS3428aWOnWNYJZBrO2eVdktzpXd/view)
+- 📄 View My CV [CV](https://drive.google.com/drive/folders/1LTicD0EtDttaXPBlClkg60OxazK0H9-c?usp=sharing)
 
 <h3 align="left">University Projects:</h3>
 
