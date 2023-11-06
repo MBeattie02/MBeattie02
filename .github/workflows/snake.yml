@@ -1,28 +1,26 @@
 name: Generate snake animation
 
 on:
-  schedule:
-    - cron: '0 */12 * * *' # Execute every 12 hours
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-      - master # Run on pushes to master branch
+    - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2 # You need to checkout your repository first
-
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.actor }} # Use github.actor to get the current user
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
+
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
