@@ -18,9 +18,20 @@
 | 🔗 [**My Portfolio**](https://mbeattie.dev)                                                                         | Personal Website Showcasing Projects and Skills | React.js                    |
 | 🔗 [**Final Year Project**](https://github.com/MBeattie02/code_review_tool)                                                                | An Education-oriented Software-as-a-Service Tool for Java Code Review     | React.js, Springboot, MongoDB, Azure         |
 
+## 🎯 What I'm Currently Focused On
+```javascript
+const currentFocus = {
+    learning: ['Advanced AWS Services', 'Cloud Architecture Patterns'],
+    working: ['Cloud Native Applications', 'DevOps Practices'],
+    goals: [
+        'AWS Certified Developer',
+        'Kubernetes Expert'
+    ]
+};
+```
 
 
-<h3 align="left">University Projects:</h3>
+## 🎓 University Projects
 
 - 🎓 Software Engineering and Systems Development [Technopoly](https://github.com/MBeattie02/Technopoly)
 
