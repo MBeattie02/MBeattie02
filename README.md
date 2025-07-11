@@ -16,30 +16,18 @@
 | 🔗 Project                                                                                                                  | Description                                     | Technologies               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------- |
 | 🔗 [**My Portfolio**](https://mbeattie.dev)                                                                         | Personal Website Showcasing Projects and Skills | React.js                    |
-| 🔗 [**Final Year Project**](https://github.com/MBeattie02/code_review_tool)                                                                | An Education-oriented Software-as-a-Service Tool for Java Code Review     | React.js, Springboot, MongoDB, Azure         |
+| 🔗 [**Final Year Project**](https://github.com/MBeattie02/code_review_tool)                                                                | An Education-oriented Software-as-a-Service Tool for Java Code Review [**Publication**](https://www.sciencedirect.com/science/article/pii/S2352711025000159)     | React.js, Springboot, MongoDB, Azure         |
 
 ## 🎯 What I'm Currently Focused On
 ```javascript
 const currentFocus = {
-    learning: ['Advanced AWS Services', 'Cloud Architecture Patterns'],
-    working: ['Cloud Native Applications', 'DevOps Practices'],
+    learning: ['Machine Learning', 'AI Engineering'],
     goals: [
-        'AWS Certified Developer',
-        'Kubernetes Expert'
+        'AWS Certified'
     ]
 };
 ```
 
-
-## 🎓 University Projects
-
-- 🎓 Software Engineering and Systems Development [Technopoly](https://github.com/MBeattie02/Technopoly)
-
-- 🎓  Programming [Music-Player](https://github.com/MBeattie02/Music-Player)
-
-- 🎓 Web Technologies [Escape-Room](https://github.com/MBeattie02/Escape-Room)
-
-- 🎓 Software Design Principles [Bank-Project](https://github.com/MBeattie02/Bank-Project)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-beattie-b77693223) 
