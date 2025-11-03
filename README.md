@@ -34,6 +34,32 @@ const currentFocus = {
 
 # 💻 Tech Stack:
 
+### 🤖 AI & ML Frameworks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  </a>
+</p>
+
+### 🔗 LLM & AI Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=langchain" />
+  </a>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
+
+### ☁️ Cloud & Data Platforms:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git" />
+  </a>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+</p>
+
 ### 💡 Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,14 +71,14 @@ const currentFocus = {
 ### 🛠️ Tools & Platforms:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gradle,docker,postman,kubernetes,linux,maven,jenkins,netlify,heroku,git" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,kubernetes,linux,maven,jenkins,netlify,heroku,git" />
   </a>
 </p>
 
 ###  📂 Programming & Databases:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,mysql,mongo," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mongo" />
   </a>
 </p>
 
